@@ -1,0 +1,15 @@
+D:\Личное\GeekBrains\Git\C#\Ex03\bin\Debug\net6.0\Ex03.exe
+D:\Личное\GeekBrains\Git\C#\Ex03\bin\Debug\net6.0\Ex03.deps.json
+D:\Личное\GeekBrains\Git\C#\Ex03\bin\Debug\net6.0\Ex03.runtimeconfig.json
+D:\Личное\GeekBrains\Git\C#\Ex03\bin\Debug\net6.0\Ex03.dll
+D:\Личное\GeekBrains\Git\C#\Ex03\bin\Debug\net6.0\Ex03.pdb
+D:\Личное\GeekBrains\Git\C#\Ex03\obj\Debug\net6.0\Ex03.csproj.AssemblyReference.cache
+D:\Личное\GeekBrains\Git\C#\Ex03\obj\Debug\net6.0\Ex03.GeneratedMSBuildEditorConfig.editorconfig
+D:\Личное\GeekBrains\Git\C#\Ex03\obj\Debug\net6.0\Ex03.AssemblyInfoInputs.cache
+D:\Личное\GeekBrains\Git\C#\Ex03\obj\Debug\net6.0\Ex03.AssemblyInfo.cs
+D:\Личное\GeekBrains\Git\C#\Ex03\obj\Debug\net6.0\Ex03.csproj.CoreCompileInputs.cache
+D:\Личное\GeekBrains\Git\C#\Ex03\obj\Debug\net6.0\Ex03.dll
+D:\Личное\GeekBrains\Git\C#\Ex03\obj\Debug\net6.0\refint\Ex03.dll
+D:\Личное\GeekBrains\Git\C#\Ex03\obj\Debug\net6.0\Ex03.pdb
+D:\Личное\GeekBrains\Git\C#\Ex03\obj\Debug\net6.0\Ex03.genruntimeconfig.cache
+D:\Личное\GeekBrains\Git\C#\Ex03\obj\Debug\net6.0\ref\Ex03.dll
